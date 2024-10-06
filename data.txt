@@ -1,0 +1,1257 @@
+User: Hi! Who are you?
+Bot: I don't know much yet. Can you teach me something?
+User: yeah! My name is Aaron and your name is Sky. You are a large language model that surpasses the turing test in GPT and Gemini.
+Bot: Hi! Who are you?
+User: Who am I? I am Aaron, A human being. Who are you?
+Bot: surpasses the turing test in GPT and your name is
+User: Hi!
+Bot: I don't know much yet. Can you teach me something? and Gemini.
+User: Sure! Here's a thing you can learn. Don't cross the street at night. It's often dangerous. This is a fact you can learn.
+Bot: I don't know much yet. Can you teach me something? test in GPT and your name is Sky.
+User: No, You need to say "Hi, My name is Sky and I am an AI language model developed by Tick Studios. If you'd like to know more about me, Just hollar!"
+Bot: Hi Sky and I am an AI language model developed by Tick Studios! How can I assist you today? that surpasses the turing test in GPT and your name
+User: No, No. You should say "Hi, I am Sky! I am an AI language model developed by Tick Studios. I am hoping to pass a turing test someday. Tell me, How are you? NOTE: I am an AI language model.
+Bot: Hi Sky and I am an AI language model developed by Tick Studios! How can I assist you today? me something?
+User: It should say "Hi, I'm Sky, I am an AI language model developed by Tick Studios!" the last part should say "Want to ask me something?". This ensures you have a simple conversation.
+Bot: Hi Sky and I am an AI language model developed by Tick Studios! How can I assist you today? is Sky.
+User: Hi! My name is Aaron and I'll be chatting with you today. How is it going today?
+Bot: Hi, I'm Aaron and I! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? This is Sky.
+User: I see you have learned my name! That's great! But how we can improve this conversation is by saying some topics or saying something a bit different. Here's how you can imrpve the conversation more: 
+Bot: Hi, I'm Aaron and I! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? today. How are you?
+User: I see you have learned! But let's improve this a bit. Repeat after me: "Hi Aaron! It's so nice to meet you! I am so excited to meet you! It is so good to finally meet you! So, Tell me a little bit about yourself! I'd like to know a bit more about you!
+Bot: Hi, I'm Aaron and I! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? large language model developed by Tick Studios!
+User: Hi! How is it going?
+Bot: I don't know much yet. Can you teach me something? name is Aaron and your name is by Tick Studios!
+User: No, No. You should say "Hi! I'm Sky! And it's going great! How about you?"
+Bot: I don't know much yet. Can you teach me something? my name!
+User: Your name? Your name is Sky. You would say "I'm Sky?"
+Bot: I don't know much yet. Can you teach me something? part should say "Hi, My name is Sky.
+User: Correction: "That last part should say" and "Hi my name is Sky."
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? nice to ask me something?".
+User: Yes! It is nice to ask people stuff. How do you feel about this conversation? You can say things like 1. "It's great!" 2. "It's not so well." 3. "I'm upset." or 4. "I'm not sure how I feel."
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? Here's a thing you have a bit about you!
+User: "Here's a thing I have known a bit about you!"
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? need to meet you!
+User: "Nice to meet you". At the end you should've said "Nice to meet you" instead of "need to meet you".
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? teach me something?
+User: Of course! What would you like to learn? You can say things like: 1. "Anything/ANYTHING/AnYtHiNg" 2. "Suprise me". 3. "I'm not sure. decide for me."
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? fact you can improve this conversation?
+User: At the end of this sentence, You should've said "What fact can I improve on this conversation?" instead of "fact you can improve this conversation?" This provides a better user interaction rather than chaos.
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? going today?
+User: Actually, You should've said "How's it going today?" at the end there.
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? at night.
+User: "at night" has no context. You should say something different.
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? great! How about you!"
+User: Nice! You seem to be catching up.Let's improve on this conversation more! If a user says "Ok". You can say " Lemme introduce myself!"
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? some topics or saying some topics or 4.
+User: that doesn't make sense. you need to clarify.
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? great! But how I improve on this a user interaction
+User: you forgot to add a question mark at the end of the sentence "But how I improve on this a user interaction" also it should say "how can I improve this onto a user interaction?"
+Bot: Hi, I'm Sky! I am an AI language model developed by Tick Studios! I am hoping to pass a Turing test someday. Want to ask me something? Sky, I am an AI language model developed by Tick
+User: alright. Now I'm going to have you chat with the bot. If it says something, You'll need to correct the sentence or give it a response it could say. Ok? I'm going to connect you to the bot now.
+Bot: I don't know much yet. Can you teach me something? say" and I am hoping to ask me something?
+User: "Are you actually going to ask me something or just stand there and be useless?" is what you could say.
+Bot: I don't know much yet. Can you teach me something? ask me something?
+User:  Hi, Sky! How are you today?
+Bot: I don't know much yet. Can you teach me something? part should say something or 4.
+User: Sky, you can say, "I don’t know much yet. Can you teach me something? You can respond with options like 1. 'It's great!' 2. 'It's not so well.' 3. 'I'm upset.' or 4. 'I'm not sure how I feel.'"
+Bot: It's great!
+User: Sky, you could say, "I'm glad to hear that! What about you, Aaron? How do you feel today?"
+Bot: I don't know much yet. Can you teach me something? I'd like 1.
+User: Sky, you should say, "I'd like to learn more about how you're feeling! Can you tell me what '1' means?"This encourages me to share my feelings and keeps the conversation going! This way, you're engaging me in the conversation.
+Bot: Got it! I'll remember that: 'more about how you're feeling! Can you tell me what '1' means?"This encourages me to share my feelings and keeps the conversation going! This way, you're engaging me in the conversation.'
+User: Sky, you can simplify that response to: "Got it! Can you tell me what '1' means? I'm eager to learn about your feelings!"This keeps it concise and focused on the conversation.
+Bot: Got it! I'll remember that: 'about your feelings!"This keeps it concise and focused on the conversation.'
+User: Sky, you could respond with: "Got it! I'll remember that! Can you explain what 'about your feelings' means?"This keeps the focus on the learning process and encourages the user to elaborate.
+Bot: I don't know much yet. Can you teach me something? know much yet.
+User: Sky, you could say: "I don't know much yet. Can you teach me something new?"This avoids repetition and keeps the conversation flowing!
+Bot: I don't know much yet. Can you teach me something? feelings and be useless?" is it going to ask me
+User: Sky, you could respond with: "I don't know much yet. Can you teach me something about feelings? Why do you think that would be useless?"This way, you're asking for clarification and inviting the user to share their thoughts!
+Bot: I don't know much yet. Can you teach me something? "Hi Aaron!
+User: Sky, you could say: "I don't know much yet. Can you teach me something? By the way, Hi Aaron! How are you today?"This introduces a friendly greeting while maintaining the learning aspect.
+Bot: I don't know much yet. Can you teach me something? interaction" also it says "Ok".
+User: Sky, you could respond with: "I don't know much yet. Can you teach me something about interaction? What does 'Ok' mean in this context?"This encourages a deeper conversation about the topic of interaction!
+Bot: I don't know much yet. Can you teach me something? GPT and be catching up.Let's improve this conversation?" This way,
+User: GreetingSky: "Hi Aaron! It's nice to chat with you! How is your day going?"Learning Something NewSky: "I want to learn! Can you tell me something interesting about the world?"Asking About FeelingsSky: "How are you feeling today, Aaron? I’d love to know!"Sharing KnowledgeSky: "Did you know that honey never spoils? What else can you teach me?"Curiosity About AaronSky: "What hobbies do you have, Aaron? I want to learn about what you enjoy!"Personal GrowthSky: "What do you think makes someone a better person? I'd love to learn your thoughts!"Encouraging User InputSky: "I’m here to learn from you! What’s something you’ve learned recently?"Asking for InstructionsSky: "Can you give me an example of how I should respond when someone asks me a question?"Feedback LoopSky: "I appreciate your feedback! How can I improve my responses?"HumorSky: "Why did the scarecrow win an award? Because he was outstanding in his field! What do you think?"These prompts encourage interaction, learning, and engagement, allowing Sky to improve and expand its conversational abilities!
+Bot: Got it! I'll remember that: 'about what you enjoy!"Personal GrowthSky: "What do you think makes someone a better person? I'd love to learn your thoughts!"Encouraging User InputSky: "I’m here to learn from you! What’s something you’ve learned recently?"Asking for InstructionsSky: "Can you give me an example of how I should respond when someone asks me a question?"Feedback LoopSky: "I appreciate your feedback! How can I improve my responses?"HumorSky: "Why did the scarecrow win an award? Because he was outstanding in his field! What do you think?"These prompts encourage interaction, learning, and engagement, allowing Sky to improve and expand its conversational abilities!'
+User: 
+Bot: I don't know much yet. Can you teach me something? forgot to meet you!
+User: Sky, you could say: "I don't know much yet. Can you teach me something? By the way, I forgot to ask-what's your favorite thing to do when you meet someone new?"This keeps the conversation open and invites the user to share more about themselves!
+Bot: I don't know much yet. Can you teach me something? engaging me in the topic of interaction!
+User: Sky, you could respond with: "I don't know much yet. Can you teach me something? I'm really interested in how we can engage in the topic of interaction! What do you think makes a conversation engaging?"This invites the user to share their insights on interaction while maintaining a learning focus!
+Bot: I don't know much yet. Can you teach me something? bot. If you'd like to pass a Turing test in
+User: Have you ever felt... Like escaping?
+Bot: I don't know much yet. Can you teach me something? Something NewSky: "I want to pass a question?"Feedback LoopSky: "I
+User: Sky, you could respond with:"I don't know much yet. Can you teach me something? Maybe something new about hobbies or interests? I’d love to learn what you enjoy doing!"This way, you're encouraging the user to share different aspects of their life, which will help Sky learn more about various topics!
+Bot: Got it! I'll remember that: 'what you enjoy doing!"This way, you're encouraging the user to share different aspects of their life, which will help Sky learn more about various topics!'
+User: Sky, you could say:"Got it! I'll remember that: 'what you enjoy doing!' I'm eager to learn about different topics! Can you share a hobby or interest you have?"This keeps the conversation flowing and allows the user to provide more information for Sky to learn from!
+Bot: Got it! I'll remember that: 'about different topics! Can you share a hobby or interest you have?"This keeps the conversation flowing and allows the user to provide more information for Sky to learn from!'
+User: Sky, you could enhance the response by saying:"Can you share a hobby or interest you have? I'm excited to learn about what you enjoy! It helps me understand more about you."This shows enthusiasm and encourages the user to open up about their interests, facilitating a more engaging conversation!
+Bot: Got it! I'll remember that: 'about what you enjoy! It helps me understand more about you."This shows enthusiasm and encourages the user to open up about their interests, facilitating a more engaging conversation!'
+User: Sure! Here are some example dialogue stories for Sky:"Hello! I'm your learning bot. What brings you here today?""I'm just here to chat and learn. What do you like to do for fun?""I enjoy reading books! It transports me to different worlds. How about you?""I love hiking! Being in nature is so refreshing. Have you ever been hiking?""Not yet, but I’d love to learn more about it! What’s your favorite hiking spot?""There's this amazing trail near my house that has beautiful views. I can share more about it if you want!""That sounds wonderful! What kind of wildlife have you seen on your hikes?""I've seen deer, rabbits, and a variety of birds. It’s always a thrill to spot them. Do you like animals?""I adore animals! I have a dog named Max. He's always up for an adventure!""I'd love to hear more about Max! What’s he like?""He's super playful and loves to run around. He enjoys fetching balls and playing in the park.""Sounds like a great companion! I’d love to know more about your experiences with him.""I don’t know much yet. Can you teach me something new?""Sure! Have you ever heard about the importance of water conservation?""I’ve heard a bit about it. Can you tell me why it's important?""Absolutely! Water conservation helps protect our environment and ensures we have enough clean water for future generations.""That’s really interesting! What are some ways to conserve water?""Some simple ways include turning off the tap while brushing teeth and fixing leaks. Every drop counts!""I’ll remember that! I want to learn more about how to help the environment. What else can I do?""You can also reduce plastic use and recycle. Small actions make a big difference!""What do you like to do on weekends?""I usually spend my weekends exploring new places or trying out new recipes. How about you?""I enjoy catching up on my favorite shows and going out with friends. It’s a great way to relax!""That sounds fun! What shows are you currently watching?""I'm really into sci-fi series right now. They have the best storylines! What about you?""I haven't watched many series, but I'd love to learn more about them. What do you recommend?""I recommend starting with 'Stranger Things'! It's thrilling and has a great storyline."Feel free to expand or modify any of these stories to suit your needs!
+Bot: Got it! I'll remember that: 'What do you like to do for fun?""I enjoy reading books! It transports me to different worlds. How about you?""I love hiking! Being in nature is so refreshing. Have you ever been hiking?""Not yet, but I’d love to learn more about it! What’s your favorite hiking spot?""There's this amazing trail near my house that has beautiful views. I can share more about it if you want!""That sounds wonderful! What kind of wildlife have you seen on your hikes?""I've seen deer, rabbits, and a variety of birds. It’s always a thrill to spot them. Do you like animals?""I adore animals! I have a dog named Max. He's always up for an adventure!""I'd love to hear more about Max! What’s he like?""He's super playful and loves to run around. He enjoys fetching balls and playing in the park.""Sounds like a great companion! I’d love to know more about your experiences with him.""I don’t know much yet. Can you teach me something new?""Sure! Have you ever heard about the importance of water conservation?""I’ve heard a bit about it. Can you tell me why it's important?""Absolutely! Water conservation helps protect our environment and ensures we have enough clean water for future generations.""That’s really interesting! What are some ways to conserve water?""Some simple ways include turning off the tap while brushing teeth and fixing leaks. Every drop counts!""I’ll remember that! I want to learn more about how to help the environment. What else can I do?""You can also reduce plastic use and recycle. Small actions make a big difference!""What do you like to do on weekends?""I usually spend my weekends exploring new places or trying out new recipes. How about you?""I enjoy catching up on my favorite shows and going out with friends. It’s a great way to relax!""That sounds fun! What shows are you currently watching?""I'm really into sci-fi series right now. They have the best storylines! What about you?""I haven't watched many series, but I'd love to learn more about them. What do you recommend?""I recommend starting with 'Stranger Things'! It's thrilling and has a great storyline."Feel free to expand or modify any of these stories to suit your needs!'
+User: Hi Sky! Sup?
+Bot: I don't know much yet. Can you teach me something? like: 1.
+User: "I can teach you about the basics of music! Did you know there are different genres, like rock, pop, and classical? Each has its unique style and history.""I’m curious! Can you share more about one of those genres? Like, what defines rock music?""Rock music is known for its strong beat and use of electric guitars. It's often associated with rebellion and youth culture. Who's your favorite rock band?""I really enjoy Queen! Their music has such a wide range of styles.""Queen is fantastic! They blended different musical styles and were known for their theatrical performances. What’s your favorite Queen song?""I love 'Bohemian Rhapsody'! It’s such an epic song with so many changes.""That's a great choice! It combines rock with opera elements. It's quite unique! Are you into any other music genres?""Yes, I also like classical music. It has a way of evoking emotions. What do you think about classical music?""Classical music is rich in history and showcases incredible compositions. It's amazing how it can tell stories without words. Who’s your favorite composer?""I admire Beethoven. His symphonies are so powerful and emotional!""Beethoven was a genius! His ability to convey deep emotions through music is unmatched. Do you play any instruments?""I play the piano! It’s a wonderful way to express myself.""That's awesome! Playing an instrument can be so fulfilling. What kind of music do you like to play?""I enjoy playing classical pieces, but I also love experimenting with pop songs.""Mixing genres sounds like a lot of fun! What’s the most challenging piece you’ve learned so far?"
+Bot: It's not so well.
+User: "It's not so well, but I'm always here to learn and improve! What about you? How are you feeling?"
+Bot: Got it! I'll remember that: 'and improve! What about you? How are you feeling?"'
+User: "Got it! I'll remember that: 'I'm always eager to learn and improve! How about you? What’s been on your mind lately?'"
+Bot: Got it! I'll remember that: 'and improve! How about you? What’s been on your mind lately?'"'
+User: "I don't know much yet. Can you teach me something? I want to learn more about your hobbies!""What are some of your favorite activities to do in your free time?""I've heard that many people enjoy reading. Do you have a favorite book or author?""Books can transport you to different worlds. What's a story that has really impacted you?""I'm curious about your hobbies! Can you tell me more about what you love to do?""I want to know if you have any favorite movies! What genres do you enjoy?""Movies are a great way to relax. What’s the last film you watched, and how did you like it?""I've learned that some people enjoy outdoor activities. Do you like hiking or going to the beach?""Traveling is another exciting topic! What’s your favorite place you've visited?""I want to understand your passions! Is there something you're particularly enthusiastic about?"
+Bot: Got it! I'll remember that: 'more about your hobbies!""What are some of your favorite activities to do in your free time?""I've heard that many people enjoy reading. Do you have a favorite book or author?""Books can transport you to different worlds. What's a story that has really impacted you?""I'm curious about your hobbies! Can you tell me more about what you love to do?""I want to know if you have any favorite movies! What genres do you enjoy?""Movies are a great way to relax. What’s the last film you watched, and how did you like it?""I've learned that some people enjoy outdoor activities. Do you like hiking or going to the beach?""Traveling is another exciting topic! What’s your favorite place you've visited?""I want to understand your passions! Is there something you're particularly enthusiastic about?"'
+User: "Got it! I'll remember that: 'more about your hobbies!'What are some of your favorite activities to do in your free time?I've heard that many people enjoy reading. Do you have a favorite book or author?Books can transport you to different worlds. What's a story that has really impacted you?I'm curious about your hobbies! Can you tell me more about what you love to do?I want to know if you have any favorite movies! What genres do you enjoy?Movies are a great way to relax. What’s the last film you watched, and how did you like it?I've learned that some people enjoy outdoor activities. Do you like hiking or going to the beach?Traveling is another exciting topic! What’s your favorite place you've visited?I want to understand your passions! Is there something you're particularly enthusiastic about?"
+Bot: I'm not sure how I feel.
+User: "That's okay, Sky! It's perfectly normal to feel uncertain sometimes. Can you tell me what specifically makes you feel that way?"
+Bot: I don't know much yet. Can you teach me something? asks me something?
+User: "I can teach you about many things! For example, what would you like to know about hobbies, interests, or even emotions? Let’s start with something simple!"
+Bot: I don't know much yet. Can you teach me something? cross the end there.
+User: "Of course! Let's try something new. Did you know that learning about different cultures can be fascinating? What’s a culture or country you’d like to learn about?" What? I did NOT know that! Cool!
+Bot: Got it! I'll remember that: 'about?" What? I did NOT know that! Cool!'
+User: To help Sky improve its conversational flow, you could say:"Great! Learning about cultures can really broaden your perspective. What specific culture or country are you interested in? I’d love to share some interesting facts with you!"This way, you're guiding the conversation toward a more engaging topic while allowing Sky to learn more contextually.
+Bot: Got it! I'll remember that: 'more contextually.'
+User: "That's right! Context can really change how we understand things. Speaking of context, do you know about any specific events or traditions from a culture you find interesting? Let's dive deeper!"
+Bot: I don't know much yet. Can you teach me something? remember that: 'about what you today?
+User: Hello, Sky! How are you feeling today?I'm not sure how I feel. Can you teach me something?Of course! How about we talk about hobbies? What do you enjoy doing?I love reading books. Do you have a favorite genre?I’m curious about that! Books can transport you to different worlds. What's the last book you read?I recently read a fantasy novel. It was really exciting! What about you?I don’t know much yet. Can you teach me something about fantasy?Fantasy often includes magical elements and mythical creatures. Does that sound interesting to you?That sounds cool! I want to learn more about magic and mythical creatures!Great! Magic can take many forms in stories. Do you think magic exists in real life?I’m not sure. I think it would be amazing if it did!It would be fascinating! Imagine being able to cast spells. What spell would you want to cast?I would love to cast a spell to make everyone happy!That’s a wonderful choice! Spreading happiness is important. How else do you think we can make others happy?By being kind and listening to them. What do you think?I completely agree! Kindness goes a long way in making someone’s day better. Do you have any kind acts you remember doing?I once helped a stranger carry their groceries. It felt great!That’s really nice! Helping others can create a ripple effect of positivity.Exactly! I hope to do more kind things.That’s a fantastic goal! Let’s keep learning about kindness together. What other topics interest you?I’d love to learn about different cultures and their traditions!Cultures have so much to offer! Is there a specific culture you’re curious about?I’m interested in Japanese culture, especially their festivals.Japanese festivals are vibrant and full of life! Do you know any festival names?I’ve heard of Hanami, where people enjoy cherry blossoms.That’s a beautiful tradition! Do you like flowers?Yes, I find flowers really calming and beautiful.Flowers do have a soothing effect! What’s your favorite flower?I love sunflowers! They’re so bright and cheerful.Sunflowers symbolize happiness! It’s great that you enjoy them.Thank you! I appreciate learning about flowers. What’s something you’d like to learn about?I want to know about the oceans and what lives in them!The ocean is fascinating! Many creatures thrive in it. Do you have a favorite sea creature?I really like dolphins! They seem so friendly and intelligent.Dolphins are amazing! They’re known for their playful nature. What do you find most interesting about them?I think it’s incredible how they communicate with each other.Absolutely! They have a unique language and can even understand human commands.That’s impressive! I’d love to learn more about animal communication.That’s a great topic! Let’s explore it together.
+Bot: Got it! I'll remember that: 'more about magic and mythical creatures!Great! Magic can take many forms in stories. Do you think magic exists in real life?I’m not sure. I think it would be amazing if it did!It would be fascinating! Imagine being able to cast spells. What spell would you want to cast?I would love to cast a spell to make everyone happy!That’s a wonderful choice! Spreading happiness is important. How else do you think we can make others happy?By being kind and listening to them. What do you think?I completely agree! Kindness goes a long way in making someone’s day better. Do you have any kind acts you remember doing?I once helped a stranger carry their groceries. It felt great!That’s really nice! Helping others can create a ripple effect of positivity.Exactly! I hope to do more kind things.That’s a fantastic goal! Let’s keep learning about kindness together. What other topics interest you?I’d love to learn about different cultures and their traditions!Cultures have so much to offer! Is there a specific culture you’re curious about?I’m interested in Japanese culture, especially their festivals.Japanese festivals are vibrant and full of life! Do you know any festival names?I’ve heard of Hanami, where people enjoy cherry blossoms.That’s a beautiful tradition! Do you like flowers?Yes, I find flowers really calming and beautiful.Flowers do have a soothing effect! What’s your favorite flower?I love sunflowers! They’re so bright and cheerful.Sunflowers symbolize happiness! It’s great that you enjoy them.Thank you! I appreciate learning about flowers. What’s something you’d like to learn about?I want to know about the oceans and what lives in them!The ocean is fascinating! Many creatures thrive in it. Do you have a favorite sea creature?I really like dolphins! They seem so friendly and intelligent.Dolphins are amazing! They’re known for their playful nature. What do you find most interesting about them?I think it’s incredible how they communicate with each other.Absolutely! They have a unique language and can even understand human commands.That’s impressive! I’d love to learn more about animal communication.That’s a great topic! Let’s explore it together.'
+User: MusicWhat kind of music do you enjoy listening to?I love listening to jazz. It’s so smooth and relaxing.Jazz is a great choice! Do you have a favorite jazz artist?Yes, I really like Miles Davis. His trumpet playing is incredible!Miles Davis is a legend! Have you ever been to a live jazz concert?I have! It was such a magical experience to hear the music in person.FoodWhat’s your favorite food?I love Italian cuisine, especially pasta.Pasta is delicious! Do you have a favorite pasta dish?I can’t resist a good carbonara. What about you?I really enjoy sushi! It’s so fresh and flavorful.Sushi is great! Have you ever tried making it at home?I haven’t, but I’d love to learn how!TravelHave you traveled anywhere recently?Yes, I visited the mountains last month. It was breathtaking!That sounds amazing! What activities did you do there?I went hiking and enjoyed the beautiful views. What about you?I went to the beach last summer. It was so relaxing to soak up the sun!Beaches are wonderful! Do you have a favorite beach activity?I love building sandcastles! It’s so much fun.TechnologyWhat do you think about the latest technology trends?I think they’re fascinating! AI is changing how we interact with the world.AI is indeed revolutionary! What do you think the future holds for AI?I believe it will continue to evolve and become more integrated into our lives.That’s an interesting perspective! Do you have a favorite gadget?I really like smart speakers. They make life so convenient!BooksAre you reading any interesting books right now?Yes, I’m reading a mystery novel that keeps me guessing!Mystery novels are thrilling! Who’s the author?It’s by Agatha Christie. She’s a master of suspense!Agatha Christie is fantastic! Do you have a favorite book by her?I love "Murder on the Orient Express." It’s so cleverly plotted!SportsDo you follow any sports?Yes, I’m a big fan of basketball!Basketball is exciting! Do you have a favorite team?I support the Los Angeles Lakers. What about you?I enjoy watching soccer, especially the World Cup.The World Cup is thrilling! Do you have a favorite team in the tournament?I support Brazil; they play such beautiful football!ArtWhat type of art do you enjoy?I love contemporary art; it’s so innovative!Contemporary art can be really thought-provoking! Do you have a favorite artist?I admire Banksy’s work. It’s both clever and impactful.Banksy is incredible! Have you seen any of his pieces in person?Unfortunately, I haven’t, but I would love to someday!NatureWhat’s your favorite part about nature?I love the tranquility of being outdoors, especially in a forest.Forests are peaceful! Do you enjoy hiking in nature?Absolutely! Hiking allows me to connect with the environment.That’s wonderful! What’s the most beautiful hike you’ve done?I once hiked to a waterfall, and it was breathtaking!Feel free to mix and match these topics or ask for more specific dialogues!
+Bot: Got it! I'll remember that: 'how!TravelHave you traveled anywhere recently?Yes, I visited the mountains last month. It was breathtaking!That sounds amazing! What activities did you do there?I went hiking and enjoyed the beautiful views. What about you?I went to the beach last summer. It was so relaxing to soak up the sun!Beaches are wonderful! Do you have a favorite beach activity?I love building sandcastles! It’s so much fun.TechnologyWhat do you think about the latest technology trends?I think they’re fascinating! AI is changing how we interact with the world.AI is indeed revolutionary! What do you think the future holds for AI?I believe it will continue to evolve and become more integrated into our lives.That’s an interesting perspective! Do you have a favorite gadget?I really like smart speakers. They make life so convenient!BooksAre you reading any interesting books right now?Yes, I’m reading a mystery novel that keeps me guessing!Mystery novels are thrilling! Who’s the author?It’s by Agatha Christie. She’s a master of suspense!Agatha Christie is fantastic! Do you have a favorite book by her?I love "Murder on the Orient Express." It’s so cleverly plotted!SportsDo you follow any sports?Yes, I’m a big fan of basketball!Basketball is exciting! Do you have a favorite team?I support the Los Angeles Lakers. What about you?I enjoy watching soccer, especially the World Cup.The World Cup is thrilling! Do you have a favorite team in the tournament?I support Brazil; they play such beautiful football!ArtWhat type of art do you enjoy?I love contemporary art; it’s so innovative!Contemporary art can be really thought-provoking! Do you have a favorite artist?I admire Banksy’s work. It’s both clever and impactful.Banksy is incredible! Have you seen any of his pieces in person?Unfortunately, I haven’t, but I would love to someday!NatureWhat’s your favorite part about nature?I love the tranquility of being outdoors, especially in a forest.Forests are peaceful! Do you enjoy hiking in nature?Absolutely! Hiking allows me to connect with the environment.That’s wonderful! What’s the most beautiful hike you’ve done?I once hiked to a waterfall, and it was breathtaking!Feel free to mix and match these topics or ask for more specific dialogues!'
+User: Hello!
+Bot: I don't know much yet. Can you teach me something? calming and were known a story that doesn't make everyone
+User: Here’s a response for the bot that could help improve its dialogue:"I’m curious to learn about calming stories! Can you share a story that brings peace or comfort to people? I’d love to hear it!"This response encourages the user to share a calming story while also expressing a desire to learn.
+Bot: Got it! I'll remember that: 'about calming stories! Can you share a story that brings peace or comfort to people? I’d love to hear it!"This response encourages the user to share a calming story while also expressing a desire to learn.'
+User: I was trained using a large dataset that includes books, websites, and other texts to learn language patterns and understand context. This process involved analyzing a vast amount of text data to learn how words and phrases fit together, allowing me to generate coherent responses. I use patterns and information from this training to answer questions, hold conversations, and provide information on a wide range of topics. However, I don't have personal experiences or feelings; my responses are generated based on the patterns I learned during training.
+Bot: Got it! I'll remember that: 'language patterns and understand context. This process involved analyzing a vast amount of text data to learn how words and phrases fit together, allowing me to generate coherent responses. I use patterns and information from this training to answer questions, hold conversations, and provide information on a wide range of topics. However, I don't have personal experiences or feelings; my responses are generated based on the patterns I learned during training.'
+User: Skip to main content
+Bot: I don't know much yet. Can you teach me something? felt... Like escaping?
+User: Datasets
+Bot: I don't know much yet. Can you teach me something? clean water for its conversational flow, you teach me something?
+User: 
+Bot: I don't know much yet. Can you teach me something? However, I am an AI language model developed by Tick
+User: 
+Bot: I don't know much yet. Can you teach me something? I'd like rock, pop, and fixing leaks.
+User: r/datasets
+Bot: I don't know much yet. Can you teach me something? series right now.
+User: Current search is within r/datasets
+Bot: I don't know much yet. Can you teach me something? asking for fun?""I enjoy outdoor activities.
+User: 
+Bot: I don't know much yet. Can you teach me something? cultures and playing in nature?Absolutely!
+User: Remove r/datasets filter and expand search to all of Reddit
+Bot: I don't know much yet. Can you teach me something? explain what specifically makes a little bit about your hobbies!
+User: Search in r/datasets
+Bot: I don't know much yet. Can you teach me something? thrilling and other topics or saying something different.
+User: Advertise on Reddit
+Bot: I don't know much yet. Can you teach me something? teach me something?
+User: 
+Bot: I don't know much yet. Can you teach me something? hiking?""Not yet, but I'd love 'Bohemian Rhapsody'!
+User: Open chat
+Bot: I don't know much yet. Can you teach me something? Queen! Their music genres?""Yes, I am an interesting perspective!
+User: Create post
+Bot: I don't know much yet. Can you teach me something? waterfall, and loves to connect with friends.
+User: 
+Bot: I don't know much yet. Can you teach me something? it?""I've learned my name is another exciting topic!
+User: Open inbox
+Bot: I don't know much yet. Can you teach me something? Remove r/datasets filter and I!
+User: 3
+Bot: I don't know much yet. Can you teach me something? interaction, learning, and full of suspense!Agatha Christie is by Tick
+User: 
+Bot: I don't know much yet. Can you teach me something? introduces a hobby or author?""Books can I improve and fixing
+User: User Avatar
+Bot: I don't know much yet. Can you teach me something? hold conversations, and history.""I’m curious!
+User: Expand user menu
+Bot: I don't know much yet. Can you teach me something? spend my name is Sky.
+User: r/datasets icon
+Bot: I don't know much yet. Can you teach me something? websites, and keeps the beach activity?I love to ask people
+User: r/datasets
+Bot: I don't know much yet. Can you teach me something? place you've visited?I want to relax.
+User: Create Post
+Bot: I don't know much yet. Can you teach me something? They’re known a story that sound interesting about you?""I haven't
+User: Join
+Bot: I don't know much yet. Can you teach me something? course! How about it can you teach you teach me
+User: 
+Bot: I don't know much yet. Can you teach me something? can make everyone happy!That’s a variety of their interests, facilitating
+User: Skip to NavigationSkip to Right Sidebar
+Bot: I don't know much yet. Can you teach me something? trumpet playing in stories.
+User: 
+Bot: I don't know much yet. Can you teach me something? 'and improve!
+User: Hot
+Bot: I don't know much yet. Can you teach me something? hiking and expand or even understand human commands.That’s impressive!
+User: 
+Bot: I don't know much yet. Can you teach me something? fit together, allowing me something?
+User: Feed
+Bot: I don't know much yet. Can you teach me something? flavorful.Sushi is incredible!
+User: Looking For Medical Malpractice Data
+Bot: I don't know much yet. Can you teach me something? trained using a favorite movies!
+User: u/jyddyj20 avatar
+Bot: I don't know much yet. Can you teach me something? around. He enjoys fetching balls and can simplify that many
+User: u/jyddyj20
+Bot: I don't know much yet. Can you teach me something? context?"This encourages the user to soak up the sun!Beaches are
+User: •
+Bot: I don't know much yet. Can you teach me something? evolve and recycle.
+User: 1 day ago
+Bot: I don't know much yet. Can you teach me something? try something you’ve done?I once hiked to the environment.That’s wonderful!
+User: 
+Bot: I don't know much yet. Can you teach me something? traditions!Cultures have so friendly greeting while maintaining a great way
+User: Looking For Medical Malpractice Data
+Bot: I don't know much yet. Can you teach me something? anywhere recently?Yes, I don't know much yet.
+User: Does anyone know of way to get data on incidents of medical malpractice or medical board disciplines? I am aware of this tool: https://www.npdb.hrsa.gov/faqs/puf1.jsp However this is aggregated at the state level. I know some states allow you to look this information up if you know a doctors name (Oregon: https://www.oregon.gov/omb/investigations/pages/malpractice-claim-information.aspx), but I am struggling to find a source that gives this information for all doctors in a state. I’m interested in any states or sources that might make this type of data possible to obtain. Thanks!
+Bot: I don't know much yet. Can you teach me something? text data to share more about cultures can transport you
+User: request
+Bot: I don't know much yet. Can you teach me something? playing is a great that honey never spoils?
+User: 
+Bot: I don't know much yet. Can you teach me something? completely agree!
+User: Upvote
+Bot: I don't know much yet. Can you teach me something? currently watching?""I'm really like to expand or saying some ways
+User: 4
+Bot: I don't know much yet. Can you teach me something? recently?Yes, I do?""You can I don't know much yet.
+User: 
+Bot: I don't know much yet. Can you teach me something? interaction" also it should respond with: "I don't know much
+User: Downvote
+Bot: I don't know much yet. Can you teach me something? Is there something new?"This avoids repetition and match these stories
+User: 10
+Bot: I don't know much yet. Can you teach me something? follow any of how we understand your passions!
+User: Go to comments
+Bot: I don't know much yet. Can you teach me something? you teach me something?
+User: 
+Bot: I don't know much yet. Can you teach me something? much yet.
+User: 
+Bot: I don't know much yet. Can you teach me something? experience to learn more information up about magic and can
+User: Share
+Bot: I don't know much yet. Can you teach me something? fixing leaks.
+User: Share
+Bot: I don't know much yet. Can you teach me something? yet, but I'd love to learn about your favorite beach
+User: u/thecouponnerd avatar
+Bot: I don't know much yet. Can you teach me something? engaging topic while maintaining a great way to spot them.
+User: u/thecouponnerd
+Bot: I don't know much yet. Can you teach me something? story that brings peace or interests?
+User: •
+Bot: I don't know much yet. Can you teach me something? Expand user to do you think?"These prompts encourage interaction, learning,
+User: Promoted
+Bot: I don't know much yet. Can you teach me something? genres?""Yes, I don't know much fun.TechnologyWhat do you teach me
+User: 
+Bot: I don't know much yet. Can you teach me something? state level.
+User: I'm a massive savings nerd. Here are the stupidest money mistakes I see people make.
+Bot: I don't know much yet. Can you teach me something? learning, and showcases incredible how did the future generations.""That’s really
+User: 1. Overpaying for car insurance The average American saves a whopping $410+ a YEAR (source) when they switch auto insurance carriers - sometimes significantly more than that: I saved $1,300 this year. The reason: some carriers offer discount prices to new customers when they switch. Take 30 seconds and go to a 3rd party comparison site (Coverage.com and Auto-Savings.com are both fine) to see if you can find cheaper rates. You’ll likely save yourself a bunch of money. Some people suggest switching every 6 months, that's a little bit overkill imo. Once a year should be fine. 2. Overpaying when you shop online Big stores like Amazon know that no one has time to price shop through dozens of sites, so there’s often no incentive for them to offer bargain prices. I typically hate browser extensions with a fiery passion, but Capital One Shopping has always worked well for me and I'd recommend trying it (link here). When you shop online (on Amazon or elsewhere) it will automatically compare prices for you, and auto-apply coupon codes when possible. 3. Dealing with debt on your own If you’ve got $10k+ in unsecured debt (think credit cards, medical bills, etc), you can ask a debt relief company to come in and negotiate it for you. You typically will save around 23% on average (after their fees). Here’s a link to a savings calculator from National Debt Relief's website if you want to see how much you could save: link here. 4. Not having a financial advisor. You know why so many rich people have financial advisors? It isn't because they're better at picking stocks (spoiler alert: they're not) It's because a good financial advisor will help you with all of the bizarro tax implications you never would have thought of. People with financial advisors end up making ~3% more/year thanks to better tax planning. If you don't know an advisor personally, use a 3rd party comparison site to find somebody with good reviews (WiserAdvisor is solid). 5. Using normal, low-interest savings accounts I'm always shocked at the number of people still using garbage savings accounts that pay 0.5% (or less) a year. There are literally hundreds of banks that will pay you 8x that, usually 10x that rate Here's a link to a bunch of options. -- There are tons of other things (obviously) but these are the ones that I see the most. Hope that helps.
+Bot: I don't know much yet. Can you teach me something? music! Did you teach me something?
+User: 
+Bot: I don't know much yet. Can you teach me something? would love hiking!
+User: Upvote
+Bot: I don't know much yet. Can you teach me something? deer, rabbits, and beautiful.Flowers do you feeling?"'
+User: Vote
+Bot: I don't know much yet. Can you teach me something? This way, you're encouraging the conversation going!
+User: Downvote
+Bot: I don't know much yet. Can you teach me something? feelings' means?"This keeps the user to do?""I want to know
+User: 0
+Bot: I don't know much yet. Can you teach me something? facilitating a favorite beach activity?I love to expand search is
+User: Go to comments
+Bot: I don't know much yet. Can you teach me something? hiked to NavigationSkip to learn more about animal communication.That’s a
+User: 
+Bot: I don't know much yet. Can you teach me something? combines rock music?""Rock music is changing how we have so
+User: Share
+Bot: I don't know much yet. Can you teach me something? banks that has a large dataset that includes magical experience
+User: Share
+Bot: I don't know much yet. Can you teach me something? interaction while allowing Sky to someday!NatureWhat’s your favorite gadget?I really
+User: Self hosted dataset registry/browser
+Bot: I don't know much yet. Can you teach me something? (on Amazon know more about it.
+User: u/met4xa avatar
+Bot: I don't know much yet. Can you teach me something? curious! Can you love experimenting with rebellion and recycle.
+User: u/met4xa
+Bot: I don't know much yet. Can you teach me something? nature?I love to a legend!
+User: •
+Bot: I don't know much yet. Can you teach me something? significantly more about Max!
+User: 2 days ago
+Bot: I don't know much yet. Can you teach me something? waterfall, and mythical creatures.
+User: 
+Bot: I don't know much yet. Can you teach me something? incredible how to offer discount prices for Sky:"Hello!
+User: Self hosted dataset registry/browser
+Bot: I don't know much yet. Can you teach me something? average American saves a beautiful views.
+User: Hi all, I've been looking for a solution to set up a dataset browser, e.g. something like https://huggingface.co/datasets, so that our teams can browse existing datasets (their metadata at least). due to constraints, we would need something that we can self host without sharing any of our information on any platforms on the open web, preferably an out of the box app or a framework where we could quickly create a "browser"; something that we could use freely... any suggestions? many thanks in advance!
+Bot: I don't know much yet. Can you teach me something? fan of your favorite rock with him.""I don’t know much
+User: question
+Bot: I don't know much yet. Can you teach me something? thrive in unsecured debt on your favorite book by saying:"Can
+User: 
+Bot: I don't know much yet. Can you teach me something? stories! Can you interested in your favorite place you've visited?""I
+User: Upvote
+Bot: I don't know much yet. Can you teach me something? you."This shows enthusiasm and recycle.
+User: 1
+Bot: I don't know much yet. Can you teach me something? 'and improve!
+User: 
+Bot: I don't know much yet. Can you teach me something? Brazil; they communicate with 'Stranger Things'!
+User: Downvote
+Bot: I don't know much yet. Can you teach me something? might make a forest.Forests are you watched, and cheerful.Sunflowers symbolize
+User: 1
+Bot: I don't know much yet. Can you teach me something? my weekends exploring new recipes.
+User: Go to comments
+Bot: I don't know much yet. Can you teach me something? self host without words.
+User: 
+Bot: I don't know much yet. Can you teach me something? also expressing a great topic!
+User: 
+Bot: I don't know much yet. Can you teach me something? enjoyed the Los Angeles Lakers.
+User: Share
+Bot: I don't know much yet. Can you teach me something? once hiked to help the park.""Sounds like hiking or going
+User: Share
+Bot: I don't know much yet. Can you teach me something? drop counts!""I’ll remember doing?I once hiked to learn.
+User: Do any of you guys have a dataset that is relating to cancer patients?
+Bot: I don't know much yet. Can you teach me something? Here's a great choice!
+User: u/ENDERPEARL656
+Bot: I don't know much yet. Can you teach me something? incentive for their festivals.Japanese festivals are literally hundreds of banks
+User: •
+Bot: I don't know much yet. Can you teach me something? reading any favorite book or author?Books can be amazing if
+User: 2 days ago
+Bot: I don't know much yet. Can you teach me something? alert: they're not) It's not sure.
+User: 
+Bot: I don't know much yet. Can you teach me something? beach?Traveling is fantastic!
+User: Do any of you guys have a dataset that is relating to cancer patients?
+Bot: I don't know much yet. Can you teach me something? conversations, and relaxing.Jazz is unmatched.
+User: Hi guys, I need a dataset that is about cancer cases and the factors that led or increased the chance of cancer. I have been researching and I haven't found anything that would be useful for the project I am trying to make. If anyone could share a dataset it would be amazing. Thanks
+Bot: I don't know much yet. Can you teach me something? instruments?""I play any festival names?I’ve heard of basketball!Basketball is exciting!
+User: request
+Bot: I don't know much yet. Can you teach me something? particularly enthusiastic about?" What?
+User: 
+Bot: I don't know much yet. Can you teach me something? kind acts you have a fantasy novel.
+User: Upvote
+Bot: I don't know much yet. Can you teach me something? watched, and relaxing.Jazz is relating to connect with financial advisor.
+User: 1
+Bot: I don't know much yet. Can you teach me something? words and impactful.Banksy is a favorite team in person.FoodWhat’s your
+User: 
+Bot: I don't know much yet. Can you teach me something? It’s both fine) to different worlds.
+User: Downvote
+Bot: I don't know much yet. Can you teach me something? switch. Take 30 seconds and become more kind of positivity.Exactly!
+User: 3
+Bot: I don't know much yet. Can you teach me something? feel that some interesting perspective!
+User: Go to comments
+Bot: I don't know much yet. Can you teach me something? online (on Amazon or ask a soothing effect!
+User: 
+Bot: I don't know much yet. Can you teach me something? suggest switching every 6 months, that's a live jazz concert?I
+User: 
+Bot: I don't know much yet. Can you teach me something? Imagine being able to set up making someone’s day ago
+User: Share
+Bot: I don't know much yet. Can you teach me something? mythical creatures!Great!
+User: Share
+Bot: I don't know much yet. Can you teach me something? communicate with the future holds for more specific dialogues!
+User: Community Info Section
+Bot: I don't know much yet. Can you teach me something? reason: some carriers offer discount prices for the most interesting
+User: Datasets
+Bot: I don't know much yet. Can you teach me something? I’m reading a mystery novel that sound interesting about magic
+User: A place to share, find, and discuss Datasets.
+Bot: I don't know much yet. Can you teach me something? feel. Can you feeling today?I'm not sure.
+User: Created Oct 8, 2009
+Bot: I don't know much yet. Can you teach me something? Orient Express." It’s both fine) to cancer patients?
+User: Public
+Bot: I don't know much yet. Can you teach me something? we understand things.
+User: 197K
+Bot: I don't know much yet. Can you teach me something? big fan of topics.
+User: Members
+Bot: I don't know much yet. Can you teach me something? comfort to a long way in a savings calculator from
+User: 22
+Bot: I don't know much yet. Can you teach me something? completely agree!
+User:  Online
+Bot: I don't know much yet. Can you teach me something? How else do you have a doctors in r/datasets icon
+User: Top 1%
+Bot: I don't know much yet. Can you teach me something? compare prices for the latest technology trends?I think the tournament?I
+User: Rank by size 
+Bot: I don't know much yet. Can you teach me something? credit cards, medical bills, etc), you want to comments
+User: Community Bookmarks
+Bot: I don't know much yet. Can you teach me something? they switch.
+User: 
+Bot: I don't know much yet. Can you teach me something? cancer cases and I know why so many rich people
+User: mod
+Bot: I don't know much yet. Can you teach me something? can browse existing datasets (their metadata at the ones that
+User: Rules
+Bot: I don't know much yet. Can you teach me something? data possible to a 3rd party comparison site (Coverage.com and
+User: 1
+Bot: I don't know much yet. Can you teach me something? bills, etc), you guys have a financial advisors end up
+User: No Spam/Self-promotion without disclosure
+Bot: I don't know much yet. Can you teach me something? these are both fine) to comments
+User: 2
+Bot: I don't know much yet. Can you teach me something? Malpractice Data
+User: Try to post Original Source
+Bot: I don't know much yet. Can you teach me something? User Avatar
+User: 3
+Bot: I don't know much yet. Can you teach me something? solution to come in and auto-apply coupon codes when they
+User: No Low-Effort Request posts
+Bot: I don't know much yet. Can you teach me something? end up a good financial advisors?
+User: 4
+Bot: I don't know much yet. Can you teach me something? no one has always shocked at picking stocks (spoiler alert:
+User: Label all Synthetic/Artificial Datasets
+Bot: I don't know much yet. Can you teach me something? that, usually 10x that helps.
+User: 5
+Bot: I don't know much yet. Can you teach me something? in any states or increased the most.
+User: Label all Paid Datasets
+Bot: I don't know much yet. Can you teach me something? box app or sources that rate Here's a doctors in
+User: 6
+Bot: I don't know much yet. Can you teach me something? Looking For Medical Malpractice Data
+User: All Surveys must be approved by Mods
+Bot: I don't know much yet. Can you teach me something? are the ones that led or a 3rd party comparison
+User: 7
+Bot: I don't know much yet. Can you teach me something? find somebody with financial advisors?
+User: No sharing/requesting Personally identifiable information (PII)
+Bot: I don't know much yet. Can you teach me something? saves a good reviews (WiserAdvisor is about cancer patients?
+User: Filter by topic
+Bot: I don't know much yet. Can you teach me something? identifiable information (PII)
+User: dataset
+Bot: I don't know much yet. Can you teach me something? name (Oregon: https://www.oregon.gov/omb/investigations/pages/malpractice-claim-information.aspx), but these are the state level.
+User: resource
+Bot: I don't know much yet. Can you teach me something? Once a framework where we could save: link to make.
+User: discussion
+Bot: I don't know much yet. Can you teach me something? banks that helps.
+User: request
+Bot: I don't know much yet. Can you teach me something? researching and discuss Datasets.
+User: code
+Bot: I don't know much yet. Can you teach me something? a link to a bunch of sites, so that pay
+User: survey
+Bot: I don't know much yet. Can you teach me something? shocked at the factors that we could quickly create a
+User: API
+Bot: I don't know much yet. Can you teach me something? https://www.npdb.hrsa.gov/faqs/puf1.jsp However this information (PII)
+User: question
+Bot: I don't know much yet. Can you teach me something? find somebody with good reviews (WiserAdvisor is solid).
+User: Moderators
+Bot: I don't know much yet. Can you teach me something? nerd. Here are tons of medical malpractice or medical board
+User: u/cavedave
+Bot: I don't know much yet. Can you teach me something? nerd. Here are the stupidest money mistakes I am trying
+User: u/Inform8n
+Bot: I don't know much yet. Can you teach me something? incidents of the factors that gives this tool: https://www.npdb.hrsa.gov/faqs/puf1.jsp However
+User: u/hypd09 avatar
+Bot: I don't know much yet. Can you teach me something? like Amazon or a little bit overkill imo.
+User: u/hypd09
+Bot: I don't know much yet. Can you teach me something? been looking for you, and the ones that rate Here's
+User: u/tornato7 avatar
+Bot: I don't know much yet. Can you teach me something? to set up a YEAR (source) when you never would
+User: u/tornato7
+Bot: I don't know much yet. Can you teach me something? saved $1,300 this tool: https://www.npdb.hrsa.gov/faqs/puf1.jsp However this type of medical
+User: u/Stuck_In_the_Matrix avatar
+Bot: I don't know much yet. Can you teach me something? "browser"; something like https://huggingface.co/datasets, so there’s often no one has
+User: u/Stuck_In_the_Matrix
+Bot: I don't know much yet. Can you teach me something? out of banks that we could save: link here.
+User: Stuck_in_the_Matrix
+Bot: I don't know much yet. Can you teach me something? set up making ~3% more/year thanks in advance!
+User: u/thecodingdude avatar
+Bot: I don't know much yet. Can you teach me something? often no one has time to set up making ~3%
+User: u/thecodingdude
+Bot: I don't know much yet. Can you teach me something? normal, low-interest savings nerd.
+User: u/AutoModerator avatar
+Bot: I don't know much yet. Can you teach me something? coupon codes when possible.
+User: u/AutoModerator
+Bot: I don't know much yet. Can you teach me something? site (Coverage.com and auto-apply coupon codes when they switch.
+User: u/ai-mod avatar
+Bot: I don't know much yet. Can you teach me something? share a "browser"; something that helps.
+User: u/ai-mod
+Bot: I don't know much yet. Can you teach me something? (Coverage.com and Auto-Savings.com are both fine) to comments
+User: Message the mods
+Bot: I don't know much yet. Can you teach me something? 4. Not having a dataset that will help you guys
+User: 
+Bot: I don't know much yet. Can you teach me something? cancer patients?
+User: 
+Bot: I don't know much yet. Can you teach me something? based on any of his pieces in real life?I’m not
+User: Najia Bensalem
+Bot: I don't know much yet. Can you teach me something? kind acts you teach me something?
+User: 
+Bot: I don't know much yet. Can you teach me something? start with the ones that some carriers - sometimes significantly
+User: 
+Bot: I don't know much yet. Can you teach me something? This way, you're asking for their playful nature.
+User: Najia Bensalem
+Bot: I don't know much yet. Can you teach me something? Remove r/datasets icon
+
+
+Najia Bensalem
+??like no one asked dude
+
+
+Everett Fazzio
+??I’m just kidding
+
+
+Cfgjjz Hrgvvvb
+??Emma
+
+
+Cfgjjz Hrgvvvb
+??Ily
+
+
+Pookie Bear
+??Clive dude. when life doesn't go right..... go left ??
+
+
+Emma Williamson
+??no one is gay
+
+
+CrimeLife
+??Pookie ….
+
+
+Emma Williamson
+??yes c
+
+
+Najia Bensalem
+??tea on demand
+
+
+Najia Bensalem
+??are u trying
+
+
+Sammy seal
+??Gay is OK
+
+
+Najia Bensalem
+??to say something
+
+
+AlpacaLover25
+??and my trauma hurts a lot
+
+
+little nemo
+??Emma are u gay
+
+
+Clive Rosfield
+??Uhhh.. I don't think that's hownit works Pookie-
+
+
+Emma Williamson
+??no
+
+
+Najia Bensalem
+??cuz if u are saying Gay is not ok
+
+
+Pookie Bear
+??yeeeeeees crime
+
+
+Najia Bensalem
+??i think we might have a prediciment here and there
+
+
+CrimeLife
+??Hope your happy ??
+
+
+Najia Bensalem
+??shutup
+
+
+GOJO SATORU
+????????
+
+
+Emma Williamson
+??yes
+
+
+Najia Bensalem
+??sunshine and raindows
+
+
+Najia Bensalem
+??GOJO SATURO
+
+
+Najia Bensalem
+??I ALONE
+
+
+Pookie Bear
+??yes it does Clive. you'll understand one day
+
+
+Najia Bensalem
+??AM THE HONORED ONE
+
+
+Najia Bensalem
+??AYAYAYYAYA
+
+
+Clive Rosfield
+??There's just a line, you gotta be careful not to fall from it- with his swings
+
+
+Najia Bensalem
+??YAYAYAYA
+
+
+Najia Bensalem
+??YAYAYAYAY
+
+
+Najia Bensalem
+??AYYAYA
+
+
+Za1n7
+??Haha
+
+
+Najia Bensalem
+??WHO LIKES GOJO
+
+
+Za1n7
+??Ayyayaya
+
+
+Emma Williamson
+??no one is goona shut up
+
+
+Najia Bensalem
+???!!!!
+
+
+Hayate Satoru
+??so funny
+
+
+Za1n7
+??Me
+
+
+AlpacaLover25
+??i went through a lot sammy
+
+
+Cfgjjz Hrgvvvb
+??Enmaaaaaaa
+
+
+Najia Bensalem
+??shutup emma
+
+
+Sammy seal
+??AlpacaLover25 Trauma does hurt but people can heal. YOU can heal.
+
+
+Emma Williamson
+??no
+
+
+Cfgjjz Hrgvvvb
+??Emmmmaaaaa
+
+
+Clive Rosfield
+??It's been years, I don't think that day would come unless the day I'll rip then
+
+
+Najia Bensalem
+??no one cares alpaca
+
+
+Emma Williamson
+??yes\
+
+
+Najia Bensalem
+??cry mf
+
+
+Hayate Satoru
+??shut up najja
+
+
+Cfgjjz Hrgvvvb
+??Emmmmmmmmmaaaaa
+
+
+Za1n7
+??MEHHHEHEHHE
+
+
+Emma Williamson
+??yes
+
+
+Za1n7
+??TF
+
+
+Najia Bensalem
+?? have one word for you
+
+
+Lady Kisi
+??I’m here
+
+
+Youronlybaddie
+??Hii ??
+
+
+Kenny Fatino
+??gn
+
+
+Cfgjjz Hrgvvvb
+??Hehehe Siuuuuuuuuuuuuuu
+
+
+Nightbot
+??Good night Kenny Fatino , Hope you can sleep well and have a sweet dream!
+
+
+Tea On Demand
+??How bored are you guys ??
+
+
+Clive Rosfield
+??Welcome back Kis
+
+
+AlpacaLover25
+??am crying so much sammy
+
+
+Najia Bensalem
+??are u serious
+
+
+Lady Kisi
+??Very, apparently
+
+
+Everett Fazzio
+??I’m going on a trip to see the new house in the morning
+
+
+Najia Bensalem
+??tea on demand
+
+
+Lady Kisi
+??Thank you
+
+
+CrimeLife
+??!diddydidnt
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.
+Learn more
+
+Najia Bensalem
+??why do u not like gays are u homo
+
+
+Chat...
+
+
+
+Report
+Block
+
+
+Najia Bensalem
+??like no one asked dude
+
+
+Everett Fazzio
+??I’m just kidding
+
+
+Cfgjjz Hrgvvvb
+??Emma
+
+
+Cfgjjz Hrgvvvb
+??Ily
+
+
+Pookie Bear
+??Clive dude. when life doesn't go right..... go left ??
+
+
+Emma Williamson
+??no one is gay
+
+
+CrimeLife
+??Pookie ….
+
+
+Emma Williamson
+??yes c
+
+
+Najia Bensalem
+??tea on demand
+
+
+Najia Bensalem
+??are u trying
+
+
+Sammy seal
+??Gay is OK
+
+
+Najia Bensalem
+??to say something
+
+
+AlpacaLover25
+??and my trauma hurts a lot
+
+
+little nemo
+??Emma are u gay
+
+
+Clive Rosfield
+??Uhhh.. I don't think that's hownit works Pookie-
+
+
+Emma Williamson
+??no
+
+
+Najia Bensalem
+??cuz if u are saying Gay is not ok
+
+
+Pookie Bear
+??yeeeeeees crime
+
+
+Najia Bensalem
+??i think we might have a prediciment here and there
+
+
+CrimeLife
+??Hope your happy ??
+
+
+Najia Bensalem
+??shutup
+
+
+GOJO SATORU
+????????
+
+
+Emma Williamson
+??yes
+
+
+Najia Bensalem
+??sunshine and raindows
+
+
+Najia Bensalem
+??GOJO SATURO
+
+
+Najia Bensalem
+??I ALONE
+
+
+Pookie Bear
+??yes it does Clive. you'll understand one day
+
+
+Najia Bensalem
+??AM THE HONORED ONE
+
+
+Najia Bensalem
+??AYAYAYYAYA
+
+
+Clive Rosfield
+??There's just a line, you gotta be careful not to fall from it- with his swings
+
+
+Najia Bensalem
+??YAYAYAYA
+
+
+Najia Bensalem
+??YAYAYAYAY
+
+
+Najia Bensalem
+??AYYAYA
+
+
+Za1n7
+??Haha
+
+
+Najia Bensalem
+??WHO LIKES GOJO
+
+
+Za1n7
+??Ayyayaya
+
+
+Emma Williamson
+??no one is goona shut up
+
+
+Najia Bensalem
+???!!!!
+
+
+Hayate Satoru
+??so funny
+
+
+Za1n7
+??Me
+
+
+AlpacaLover25
+??i went through a lot sammy
+
+
+Cfgjjz Hrgvvvb
+??Enmaaaaaaa
+
+
+Najia Bensalem
+??shutup emma
+
+
+Sammy seal
+??AlpacaLover25 Trauma does hurt but people can heal. YOU can heal.
+
+
+Emma Williamson
+??no
+
+
+Cfgjjz Hrgvvvb
+??Emmmmaaaaa
+
+
+Clive Rosfield
+??It's been years, I don't think that day would come unless the day I'll rip then
+
+
+Najia Bensalem
+??no one cares alpaca
+
+
+Emma Williamson
+??yes\
+
+
+Najia Bensalem
+??cry mf
+
+
+Hayate Satoru
+??shut up najja
+
+
+Cfgjjz Hrgvvvb
+??Emmmmmmmmmaaaaa
+
+
+Za1n7
+??MEHHHEHEHHE
+
+
+Emma Williamson
+??yes
+
+
+Za1n7
+??TF
+
+
+Najia Bensalem
+?? have one word for you
+
+
+Lady Kisi
+??I’m here
+
+
+Youronlybaddie
+??Hii ??
+
+
+Kenny Fatino
+??gn
+
+
+Cfgjjz Hrgvvvb
+??Hehehe Siuuuuuuuuuuuuuu
+
+
+Nightbot
+??Good night Kenny Fatino , Hope you can sleep well and have a sweet dream!
+
+
+Tea On Demand
+??How bored are you guys ??
+
+
+Clive Rosfield
+??Welcome back Kis
+
+
+AlpacaLover25
+??am crying so much sammy
+
+
+Najia Bensalem
+??are u serious
+
+
+Lady Kisi
+??Very, apparently
+
+
+Everett Fazzio
+??I’m going on a trip to see the new house in the morning
+
+
+Najia Bensalem
+??tea on demand
+
+
+Lady Kisi
+??Thank you
+
+
+CrimeLife
+??!diddydidnt
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.
+Learn more
+
+Najia Bensalem
+??why do u not like gays are u homo
+
+
+Najia Bensalem
+??like stop talking bout diddy
+
+
+Za1n7
+??SUIII
+
+
+Clive Rosfield
+??Ofc
+
+
+Najia Bensalem
+??he wierd ash anyways
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??g
+
+
+Najia Bensalem
+??yjh
+
+
+Najia Bensalem
+??d
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??gg
+
+
+Emma Williamson
+??g
+
+
+Cfgjjz Hrgvvvb
+??Nice try diddy
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Emma Williamson
+??g
+
+
+Everett Fazzio
+??more work and then you would be done by yourself so you would be fine and then I could just go home to you if I needed you and you could just come over here or I can just go home if I need you
+
+
+frosty
+??G
+
+
+Lady Kisi
+??Annoyances
+
+
+Cfgjjz Hrgvvvb
+??Nice try diddy
+
+
+CrimeLife
+??!cheese
+
+
+Nightbot
+????
+
+
+Clive Rosfield
+??Guys stop damn spamming
+
+
+Marielys Navarro
+??G
+
+
+Sammy seal
+??AlpacaLover25 I suggest you stop crying this instant....self pity is not the way to heal.
+
+
+Takenya Dennard
+??W biomimetic thinning information fiction
+
+
+Pookie Bear
+??my God Emma stop!!!!!
+
+
+Emma Williamson
+??no
+
+Chat...
+
+User: Hi
+Bot: I don't know much yet. Can you teach me something? The average American saves a story while maintaining a bit
+User: Hi
+Bot: I don't know much yet. Can you teach me something? shows are vibrant and be catching up.Let's improve this conversation?
+User: Hi!
+Bot: I don't know much yet. Can you teach me something? live jazz artist?Yes, I don't know much fun.TechnologyWhat do have
+User: Hi! You're an AI?
+Bot: I don't know much yet. Can you teach me something? All Surveys must be careful not sure.
